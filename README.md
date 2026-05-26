@@ -1,6 +1,6 @@
 # CM Terminal AI Infrastructure Evidence
 
-Private v0.1 draft evidence supplement for the CM Terminal AI Infrastructure Profit Capture vs Capital Burden comparison.
+v0.1 evidence supplement for the CM Terminal AI Infrastructure Profit Capture vs Capital Burden comparison.
 
 ## Purpose
 
@@ -82,4 +82,4 @@ This package is not investment advice. It does not provide valuation, target pri
 
 ## Relation To CM Terminal
 
-This is a private draft evidence supplement for CM Terminal Analytics. If approved for publication later, it may link back to CM Terminal for narrative context while keeping this repository limited to evidence, methodology, validation, and chart reproduction.
+This repository is an evidence supplement for CM Terminal Analytics. It may link back to CM Terminal for narrative context while keeping this repository limited to evidence, methodology, validation, and chart reproduction.

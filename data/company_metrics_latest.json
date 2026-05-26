@@ -61,7 +61,7 @@
     "capexIntensity": 0.073142,
     "sourceUrl": "https://www.asml.com/-/media/asml/files/investors/annual-report/2024/2024-annual-report-based-on-us-gaap.pdf",
     "sourceType": "Form 20-F",
-    "sourceNote": "ASML 2024 Annual Report based on US GAAP / Form 20-F. Income statement data from Consolidated Statements of Operations; revenue uses line item \"Total net sales\"; grossProfit uses \"Gross profit\"; operatingIncome uses \"Income from operations\"; rdExpense uses \"Research and development costs\"; capital expenditure uses cash flow statement line item \"Purchase of property, plant and equipment\". Amounts in EUR millions. ASML fiscal year is calendar-year aligned in this collected slice, with period ended December 31."
+    "sourceNote": "ASML 2024 Annual Report based on US GAAP / Form 20-F. Issuer-level latest-year evidence uses revenue line item \"Total net sales\", operatingIncome line item \"Income from operations\", and capital expenditure cash flow line item \"Purchase of property, plant and equipment\". Amounts in EUR millions. ASML fiscal year is calendar-year aligned in this collected slice, with period ended December 31."
   },
   {
     "ticker": "AVGO",
@@ -77,7 +77,7 @@
     "capexIntensity": 0.010626,
     "sourceUrl": "https://investors.broadcom.com/static-files/2e0788d2-4c75-4ed9-bde2-a96a7abb8996",
     "sourceType": "Form 10-K",
-    "sourceNote": "Broadcom FY2024 Annual Report on Form 10-K. Income statement data from Consolidated Statements of Operations; grossProfit uses the line item named \"Gross margin\" because Broadcom presents gross profit as a dollar amount under that label; capital expenditure uses cash flow statement line item \"Purchases of property, plant and equipment\". Amounts in USD millions. Broadcom refers to fiscal years by the calendar year in which they end; FY2024 was a 53-week fiscal year."
+    "sourceNote": "Broadcom FY2024 Annual Report on Form 10-K. Issuer-level latest-year evidence uses revenue and operatingIncome from the Consolidated Statements of Operations; capital expenditure uses cash flow statement line item \"Purchases of property, plant and equipment\". Amounts in USD millions. Broadcom refers to fiscal years by the calendar year in which they end; FY2024 was a 53-week fiscal year."
   },
   {
     "ticker": "MU",
@@ -93,7 +93,7 @@
     "capexIntensity": 0.333957,
     "sourceUrl": "https://investors.micron.com/static-files/9f6a56c1-f2fc-4bb3-a4cc-6ac984f368de",
     "sourceType": "Form 10-K",
-    "sourceNote": "Micron FY2024 Form 10-K. Income statement data from Consolidated Statements of Operations; grossProfit uses the line item named \"Gross margin\" because Micron presents gross profit as a dollar amount under that label; capital expenditure uses cash flow statement line item \"Expenditures for property, plant, and equipment\". Amounts in USD millions. Micron fiscal year is the 52 or 53-week period ending on the Thursday closest to August 31; FY2024 was a 52-week fiscal year."
+    "sourceNote": "Micron FY2024 Form 10-K. Issuer-level latest-year evidence uses revenue and operatingIncome from the Consolidated Statements of Operations; capital expenditure uses cash flow statement line item \"Expenditures for property, plant, and equipment\". Amounts in USD millions. Micron fiscal year is the 52 or 53-week period ending on the Thursday closest to August 31; FY2024 was a 52-week fiscal year."
   },
   {
     "ticker": "ANET",
@@ -109,7 +109,7 @@
     "capexIntensity": 0.004574,
     "sourceUrl": "https://www.sec.gov/Archives/edgar/data/1596532/000159653225000028/anet-20241231.htm",
     "sourceType": "Form 10-K",
-    "sourceNote": "Arista Networks FY2024 row sourced from the 2024 Form 10-K. Revenue, gross profit, income from operations, and research and development are from the Consolidated Statements of Income; capital expenditure uses the Consolidated Statements of Cash Flows line item purchases of property, equipment and intangible assets. Figures are converted from USD thousands to USD millions. Fiscal year is calendar-year aligned and ends December 31. CapEx stored as positive magnitude."
+    "sourceNote": "Arista Networks FY2024 row sourced from the 2024 Form 10-K. Issuer-level latest-year evidence uses revenue and operatingIncome from the Consolidated Statements of Income; capital expenditure uses the Consolidated Statements of Cash Flows line item purchases of property, equipment and intangible assets. Figures are converted from USD thousands to USD millions. Fiscal year is calendar-year aligned and ends December 31. CapEx stored as positive magnitude."
   },
   {
     "ticker": "VRT",
@@ -125,6 +125,6 @@
     "capexIntensity": 0.020844,
     "sourceUrl": "https://www.sec.gov/Archives/edgar/data/1674101/000162828025005905/vrt-20241231.htm",
     "sourceType": "Form 10-K",
-    "sourceNote": "Vertiv FY2024 row sourced from the 2024 Form 10-K. Net sales, cost of sales, and operating profit are from the Consolidated Statements of Earnings (Loss); grossProfit is computed as net sales minus cost of sales. R&D uses engineering, research and development costs from Note 11 / Other Financial Information. Capital expenditure uses capital expenditures from the Consolidated Statements of Cash Flows. Figures are in USD millions. Fiscal year is calendar-year aligned and ends December 31. CapEx stored as positive magnitude."
+    "sourceNote": "Vertiv FY2024 row sourced from the 2024 Form 10-K. Issuer-level latest-year evidence uses revenue and operatingIncome from the Consolidated Statements of Earnings (Loss); capital expenditure uses capital expenditures from the Consolidated Statements of Cash Flows. Figures are in USD millions. Fiscal year is calendar-year aligned and ends December 31. CapEx stored as positive magnitude."
   }
 ]
