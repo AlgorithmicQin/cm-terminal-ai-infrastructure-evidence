@@ -6,6 +6,15 @@ v0.1 evidence supplement for the CM Terminal AI Infrastructure Profit Capture vs
 
 This package provides a filing-based, issuer-level evidence set for a descriptive analytics chart comparing operating margin and CapEx intensity across eight issuers selected for an issuer-level AI infrastructure economics comparison. The records are source-mapped, validation is reproducible, and the chart can be regenerated from structured data. This package is non-advisory.
 
+## What This Repo Contains
+
+- Latest issuer-level dataset for the current eight-company comparison.
+- Source mapping records for each metric row.
+- Fiscal year and source file reference for each issuer row.
+- Validation script for required fields, formulas, source coverage, and unit/sign conventions.
+- Chart reproduction script for the current Profit Capture vs Capital Burden SVG output.
+- Generated SVG output for the current comparison chart.
+
 ## Scope
 
 The package covers only the latest-year company-level comparison set:
@@ -19,11 +28,11 @@ The package covers only the latest-year company-level comparison set:
 - ANET FY2024
 - VRT FY2024
 
-It does not include historical rows, segment-level metrics, valuation, target prices, rankings, or recommendations.
+It does not include historical rows, segment-level metrics, a full reconciliation directory, valuation, target prices, rankings, or recommendations.
 
 ## Data Sources
 
-Metrics are taken from official issuer filings, annual reports, Form 10-K / Form 20-F filings, or official issuer investor-relations filing copies. Source mapping records identify statement tables, exact line items, reported values, stored values, units, and reconciliation notes.
+Metrics are taken from official issuer filings, annual reports, Form 10-K / Form 20-F filings, or official issuer investor-relations filing copies. Source mapping records identify fiscal years, source filings, source URLs, statement tables, exact line items, reported values, stored values, units, and reconciliation notes.
 
 ## Metrics
 
@@ -74,6 +83,7 @@ Ratio comparison is directional and descriptive; it is not a fully normalized cr
 - Not a stock ranking.
 - Not a pure AI revenue estimate.
 - Not a segment-level attribution model.
+- Not a full reconciliation directory.
 - Not a full normalized cross-company accounting model.
 
 ## Non-Advisory Boundary
